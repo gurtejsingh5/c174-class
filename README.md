@@ -1,1 +1,1 @@
-# c174-class
+# PRO-C174-Student-Boilerplate
